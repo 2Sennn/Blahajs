@@ -9,6 +9,7 @@
 <h4>Notable projects I've worked on:</h4>
 
 - [Star Predictor](https://starpredictor.shop), Is a predictor for bloxflip. It is the most popular & most accurate predictor, with over 1,200 Customers (this counts EVERYONE who has bought, wether they still use it or not)
+- [StarSMM](https://starsmmpabel.xyz/), Is an SMM Panel that works for many social medias such as tiktok & instagram.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=Blahajs&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=false" />
